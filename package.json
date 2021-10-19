@@ -1,0 +1,25 @@
+{
+    "name": "@bb/bbfabric",
+    "version": "1.0.0",
+    "description": "Custom TypeScript definitions for FabricJS",
+    "homepage": "https://github.com/r-kushwaha/bbfabric/tree/master",
+    "license": "MIT",
+    "contributors": [
+        {
+            "name": "RN Kushwaha",
+            "url": "https://github.com/r-kushwaha",
+            "githubUsername": "r-kushwaha"
+        }
+    ],
+    "main": "",
+    "types": "index.d.ts",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/r-kushwaha/bbfabric.git",
+        "directory": "."
+    },
+    "scripts": {},
+    "dependencies": {},
+    "typesPublisherContentHash": "9f298d9fa71e8db6aef6986f819ac136dba68b6be87083c25588ac67f4cf71d5",
+    "typeScriptVersion": "3.6"
+}
