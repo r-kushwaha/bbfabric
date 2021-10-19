@@ -1,5 +1,5 @@
 {
-    "name": "bbfabric",
+    "name": "@bb/bbfabric",
     "version": "1.0.0",
     "description": "Custom TypeScript definitions for FabricJS",
     "homepage": "https://github.com/r-kushwaha/bbfabric/tree/master",
