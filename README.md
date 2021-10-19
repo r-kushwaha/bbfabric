@@ -1,5 +1,5 @@
 # Installation
-> `npm install --save @types/bbfabric`
+> `npm install --save @bb/bbfabric`
 
 # Summary
 This package contains custom type definitions for FabricJS (http://fabricjs.com/).
